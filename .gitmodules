@@ -1,0 +1,6 @@
+[submodule "lammps"]
+	path = lammps
+	url = https://github.com/lammps/lammps
+[submodule "thirdparty/vtk"]
+	path = thirdparty/vtk
+	url = https://github.com/Kitware/VTK
